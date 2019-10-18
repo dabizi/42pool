@@ -1,0 +1,5 @@
+Credentials cache: API:6F4BC053-75B1-411F-83B7-33703F3CB684
+        Principal: jgrandne@42.FR
+
+  Issued                Expires               Principal
+Jul  1 10:48:28 2019  Jul  8 10:48:28 2019  krbtgt/42.FR@42.FR
