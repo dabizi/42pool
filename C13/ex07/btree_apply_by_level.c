@@ -13,6 +13,11 @@
 #include <stdlib.h>
 #include "ft_btree.h"
 
+/*
+*	Done with the help of tfevrier
+*
+*/
+
 void	btree_level_count_extended(t_btree *root, int *top, int level)
 {
 	if (!root)
